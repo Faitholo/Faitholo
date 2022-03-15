@@ -1,13 +1,12 @@
-### Hi there 👋
+<img src="https://github.com/Faitholo/Faitholo/blob/main/img.png" />
 
-<!--
-**Faitholo/Faitholo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋 and welcome here!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on [Tazama Afrik](https://github.com/Tazama-Afrik/tazama-afrik) , a team portfolio project.
-- 🌱 I’m currently learning Fullstack development with ALX Africa
-- 📫 How to reach me: ...
-- 😄 Pronouns: She/Her/Hers
-- ⚡ Fun fact: 
--->
+* Name: Faith Ikhidero
+* About Me:
+- 🌱 I’m on my way a **Software Engineering** student with **ALX Africa**
+- 🔭 I’m working on [Tazama Afrik](https://github.com/Tazama-Afrik/tazama-afrik) at the moment. It is a team portfolio project.
+- 📫 How to reach me: 
+- [Github](https://github.com/Faitholo)
+- [Twitter](https://twitter.com/faith_ikhidero)
+- [Linkedin](https://www.linkedin.com/in/faith-ikhidero-517582a7)
