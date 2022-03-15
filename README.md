@@ -6,7 +6,6 @@
 * About Me:
 - 🌱 I’m a **Software Engineering** student with **ALX Africa**
 - 🔭 I’m working on [Tazama Afrik](https://github.com/Tazama-Afrik/tazama-afrik) at the moment. This is a team portfolio project.
-- 📫 How to reach me: 
-- [Github](https://github.com/Faitholo)
-- [Twitter](https://twitter.com/faith_ikhidero)
-- [Linkedin](https://www.linkedin.com/in/faith-ikhidero-517582a7)
+- 📫 How to reach me:
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/faith_ikhidero)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/faith-ikhidero-517582a7)
