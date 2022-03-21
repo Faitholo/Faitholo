@@ -13,4 +13,3 @@ My name is **Faith Ikhidero** and I’m a **Software Engineering** student at **
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faitholo&&show_icons=true&theme=radical&layout=compact)](https://github.com/Faitholo/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=your-Faitholo&style=flat-square)
