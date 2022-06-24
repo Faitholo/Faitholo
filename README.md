@@ -3,7 +3,7 @@
 ### Hi there 👋 and welcome here!
 
 My name is **Faith Ikhidero** and I’m a **Software Engineering** student at **ALX Africa**
-- I’m working on [Tazama Afrik](https://github.com/Tazama-Afrik/tazama-afrik) at the moment. This is a team portfolio project.
+- I’m working on [Word Translate](https://github.com/Faitholo/word_translate) at the moment. This is a team portfolio project.
 - You can reach me via:
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/faith_ikhidero)
