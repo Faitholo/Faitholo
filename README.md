@@ -3,7 +3,7 @@
 ### Hi there 👋 and welcome here!
 
 My name is **Faith Ikhidero** and I’m a **Software Engineering** student at **ALX Africa**
-- I’m working on [Word Translate](https://github.com/Faitholo/remem_bakes) at the moment. This is a simple Flask based web application configured with auth0 to handle authentications and authorizations.
+- I’m working on [Remem Bakes](https://github.com/Faitholo/remem_bakes) at the moment. This is a simple Flask based web application configured with auth0 to handle authentications and authorizations.
 - You can reach me via:
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/faith_ikhidero)
