@@ -2,7 +2,7 @@
 
 ### Hi there 👋 and welcome here!
 
-My name is **Faith Ikhidero** and I’m a **Software Engineering** student at **ALX Africa**
+My name is **Faith Ikhidero** and I’m a **Software Engineer**
 - I’m working on [Remem Bakes](https://github.com/Faitholo/remem_bakes) at the moment. This is a simple Flask based web application configured with auth0 to handle authentications and authorizations.
 - You can reach me via:
 
