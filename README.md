@@ -1,4 +1,4 @@
-<img src="https://github.com/Faitholo/Faitholo/blob/main/img.png" width="100" height="100" />
+<img src="https://github.com/Faitholo/Faitholo/blob/main/img.png" width="700" height="700" align="center" />
 
 <h1 align="center">Hi 👋, I'm Faith Ikhidero</h1>
 <h3 align="center">A passionate full-stack developer from Nigeria</h3>
